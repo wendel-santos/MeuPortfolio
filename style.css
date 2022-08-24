@@ -529,6 +529,9 @@ margin-left: 12.5%;
 /* Media Querie min-width: 600px */
 @media (min-width: 600px) {
   /* Barra de Navegação */
+  .logo {
+    top: .5rem;
+  }
   .sidebar-logo {
     font-size: 2.2rem;
   }
